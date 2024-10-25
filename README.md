@@ -44,6 +44,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin-bottom: 5px;">
 <img src="https://miro.com/favicon.ico" alt="Miro" width="50" height="50" style="margin-bottom: 5px;">
-<img src="https://www.gitkraken.com/static/media/logo.0054283a.svg" alt="GitKraken" width="50" height="50" style="margin-bottom: 5px;">
+<img src="https://gitkraken.com/static/media/logo.bf5bff26.svg" alt="GitKraken" width="50" height="50" style="margin-bottom: 5px;">
+
 
 </div>
