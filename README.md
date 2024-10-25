@@ -42,8 +42,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="50" height="50" style="margin-bottom: 5px;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin-bottom: 5px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Miro_Logo.svg/1200px-Miro_Logo.svg.png" alt="Miro" width="50" height="50" style="margin-bottom: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" alt="GitKraken" width="50" height="50" style="margin-bottom: 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin-bottom: 5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Miro_Logo.svg/1200px-Miro_Logo.svg.png" alt="Miro" width="50" height="50" style="margin-bottom: 5px;">
+<img src="https://www.gitkraken.com/static/media/logo.3d401b6a.svg" alt="GitKraken" width="50" height="50" style="margin-bottom: 5px;">
 
 </div>
