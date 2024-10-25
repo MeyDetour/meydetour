@@ -8,12 +8,6 @@
   I'm based in Lyon but often in Paris, too. I'm always learning, growing, and deeply passionate about tech! <br>
   I like to say that communication is the key to everything. So, don’t hesitate to reach out and say hi—I'm open, curious, and excited to connect! ✨
 </p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meydetour" alt="GitHub Streak" />
-  </a>
-</p>
  
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px width : 100%; align-items:center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-bottom: 5px;">
