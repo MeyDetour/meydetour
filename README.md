@@ -2,14 +2,14 @@
   <img src="./mainImage.png" alt="Welcome Banner" />
 </p>
 
-<h1 align="center">Hello! ✨</h1>
+<h1 align="center">Hello ! ✨</h1>
 <p align="center">
   My name is Mey Detour, and I'm in my second year of web development. <br>
   I'm based in Lyon but often in Paris, too. I'm always learning, growing, and deeply passionate about tech! <br>
-  I like to say that communication is the key to everything. So, don’t hesitate to reach out and say hi—I'm open, curious, and excited to connect! ✨
+  I like to say that communication is the key to everything. So, don’t hesitate to reach out and say hi—I'm open, curious, and excited to connect! 
 </p>
  
-<h1 align="center">Technologies ! ✨</h1>
+<h1 align="center">Technologies ! </h1>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px width : 100%; align-items:center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-bottom: 5px;">
