@@ -9,6 +9,7 @@
   I like to say that communication is the key to everything. So, don’t hesitate to reach out and say hi—I'm open, curious, and excited to connect! ✨
 </p>
  
+<h1 align="center">Technologies ! ✨</h1>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px width : 100%; align-items:center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-bottom: 5px;">
