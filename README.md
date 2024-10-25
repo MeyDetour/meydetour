@@ -28,23 +28,22 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="50" height="50" style="margin-bottom: 5px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin-bottom: 5px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="margin-bottom: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50" style="margin-bottom: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-plain.svg" alt="GitKraken" width="50" height="50" style="margin-bottom: 5px;">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50" style="margin-bottom: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtrack/youtrack-original-wordmark.svg" alt="YouTrack" width="50" height="50" style="margin-bottom: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/miro/miro-original.svg" alt="Miro" width="50" height="50" style="margin-bottom: 5px;">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50" style="margin-bottom: 5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="50" height="50" style="margin-bottom: 5px;">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="margin-bottom: 5px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Miro_Logo.svg/1200px-Miro_Logo.svg.png" alt="Miro" width="50" height="50" style="margin-bottom: 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" alt="GitKraken" width="50" height="50" style="margin-bottom: 5px;">
 
 </div>
