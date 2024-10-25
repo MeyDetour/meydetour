@@ -1,4 +1,7 @@
-Étudiant de première année en développement web, en constante progression et évolution. Passionné par le développement web. Ensemble, faisons naître demain.
+Hello! ✨ 
+My name is Mey Detour, and I'm in my second year of web development. 
+I'm based in Lyon but often in Paris, too. I'm always learning, growing, and deeply passionate about tech! 
+I like to say that communication is the key to everything. So, don’t hesitate to reach out and say hi—I'm open, curious, and excited to connect! ✨
 <!--
 **MeyDetour/meydetour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
