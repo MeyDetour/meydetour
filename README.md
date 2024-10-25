@@ -16,94 +16,35 @@
 </p>
  
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px width : 100%;">
-    <!-- HTML -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">HTML</span>
-    </div>
-    <!-- CSS -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">CSS</span>
-    </div>
-    <!-- JavaScript -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">JavaScript</span>
-    </div>
-    <!-- TypeScript -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">TypeScript</span>
-    </div>
-    <!-- PHP -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">PHP</span>
-    </div>
-    <!-- Python -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">Python</span>
-    </div>
-    <!-- React -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">React</span>
-    </div>
-    <!-- Vue -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">Vue.js</span>
-    </div>
-    <!-- Angular -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">Angular</span>
-    </div>
-    <!-- Svelte -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">Svelte</span>
-    </div>
-    <!-- Express -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">Express.js</span>
-    </div>
-    <!-- Symfony -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">Symfony</span>
-    </div>
-    <!-- Django -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">Django</span>
-    </div>
-    <!-- Flask -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">Flask</span>
-    </div>
-    <!-- Bootstrap -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">Bootstrap</span>
-    </div>
-    <!-- MySQL -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">MySQL</span>
-    </div>
-    <!-- PostgreSQL -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">PostgreSQL</span>
-    </div>
-    <!-- Git -->
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin-bottom: 5px;">
-        <span style="font-size: 0.9rem; color: #333;">Git</span>
-    </div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" alt="GitKraken" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtrack/youtrack-original.svg" alt="YouTrack" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/miro/miro-original.svg" alt="Miro" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50" style="margin-bottom: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="50" height="50" style="margin-bottom: 5px;">
+
+
 </div>
