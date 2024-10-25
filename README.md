@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Étudiant de première année en développement web, en constante progression et évolution. Passionné par le développement web. Ensemble, faisons naître demain.
 <!--
 **MeyDetour/meydetour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
