@@ -28,7 +28,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/7ab40/express-js.png" alt="Express" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://avatars.githubusercontent.com/u/143937?s=200&v=4" alt="Symfony" width="50" height="50" style="margin-bottom: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="margin-bottom: 5px;">
+    <img src="https://static-00.iconduck.com/assets.00/programming-language-flask-icon-512x457-79fa8wsi.png" alt="Flask" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin-bottom: 5px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin-bottom: 5px;">
