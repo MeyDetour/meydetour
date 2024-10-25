@@ -15,7 +15,7 @@
   </a>
 </p>
  
-<div style="display: flex; flex-direction :row; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
     <!-- HTML -->
     <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 80px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-bottom: 5px;">
