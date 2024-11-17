@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./mainImage.png" alt="Welcome Banner" />
-</p>
-
+ 
 <h1 align="center">Hello ! ✨</h1>
 <p align="center">
   My name is Mey Detour, and I'm in my second year of web development. <br>
