@@ -1,7 +1,7 @@
  
 <h1 align="center">Hello ! ✨</h1>
 <p align="center">
-  My name is Mey Detour, and I'm in my second year of web development. <br>
+  My name is Mey Detour <br>
   I'm based in Lyon but often in Paris, too. I'm always learning, growing, and deeply passionate about tech! <br>
   I like to say that communication is the key to everything. So, don’t hesitate to reach out and say hi—I'm open, curious, and excited to connect! 
 </p>
